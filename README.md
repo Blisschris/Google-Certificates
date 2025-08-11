@@ -3,6 +3,18 @@
 This repository contains my professional and project certificates.  
 Click the **Verify** link for each certificate to confirm it directly on Coursera.
 
+---
+
+## 📚 Currently Working On
+**IBM Data Science Professional Certificate** (Coursera)  
+Progress: `███░░░░░░░░` **30% Complete**  
+![Progress](https://img.shields.io/badge/Coursera_Progress-60%25-blue?style=for-the-badge)  
+
+Expected completion: **September 2025**  
+Check back here for updates!
+
+---
+
 | Certificate | Issuer | Date | Verify |
 |---|---|---|---|
 | Cluster Analysis in Data Mining | University of Illinois Urbana-Champaign (Coursera) | Dec 9, 2024 | [Verify](https://coursera.org/verify/DTN63DYAXMMP) |
