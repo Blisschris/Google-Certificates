@@ -10,7 +10,7 @@ Click the **Verify** link for each certificate to confirm it directly on Courser
 Progress: `███░░░░░░░░` **30% Complete**  
 ![Progress](https://img.shields.io/badge/Coursera_Progress-60%25-blue?style=for-the-badge)  
 
-Expected completion: **September 2025**  
+Expected completion: **October 2025**  
 Check back here for updates!
 
 ---
