@@ -19,10 +19,3 @@ Click the **Verify** link for each certificate to confirm it directly on Courser
 
 ---
 
-## How to Add More Certificates
-1. Add your certificate name, issuer, date, and verify link as a new row in the table above, keeping the list sorted by most recent date.
-2. Commit the changes to your repository.
-
----
-
-_Pro tip: Pin this repository to your GitHub profile so it’s visible on your dashboard._
